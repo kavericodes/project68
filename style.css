@@ -1,0 +1,23 @@
+body{
+    background-color:lavender;
+    text-align: center;
+}
+#menu{
+    background-color: azure;
+    margin-right: 20px;
+}
+#video{
+    margin-top: 25px;
+    font-size: 40px;
+}
+#image{
+    margin-top: 60px;
+    width: 370px;
+    height 350px;
+}
+#school{
+    font-family: cursive;
+}
+#mrsnowak{
+    margin-left: 40px;
+}
