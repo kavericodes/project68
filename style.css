@@ -12,8 +12,8 @@ body{
 }
 #image{
     margin-top: 60px;
-    width: 370px;
-    height 350px;
+    width: 1500px;
+    height 100px;
 }
 #school{
     font-family: cursive;
@@ -58,4 +58,7 @@ body{
 }
 .movie_text span{
     color:mediumaquamarine;
+}
+#contact iframe {
+   width: 100%;
 }
