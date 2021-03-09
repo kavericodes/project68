@@ -62,3 +62,7 @@ body{
 #contact iframe {
    width: 100%;
 }
+#myNavbar{
+    position:fixed;
+    z-index: 10;
+}
