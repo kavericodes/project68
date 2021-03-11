@@ -62,7 +62,34 @@ body{
 #contact iframe {
    width: 100%;
 }
-#myNavbar{
-    position:fixed;
-    z-index: 10;
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+#navbar {
+    overflow: hidden;
+    background-color: #444;
+}
+#navbar a {
+    float: left;
+    display: block;
+    color: steelblue;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#alumniheader {
+    margin-top: 150px;
+    font-family: cursive;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 50px;
 }
